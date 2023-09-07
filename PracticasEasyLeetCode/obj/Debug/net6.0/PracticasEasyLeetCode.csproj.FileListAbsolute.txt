@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\bin\Debug\net6.0\PracticasEasyLeetCode.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\bin\Debug\net6.0\PracticasEasyLeetCode.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\bin\Debug\net6.0\PracticasEasyLeetCode.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\bin\Debug\net6.0\PracticasEasyLeetCode.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\bin\Debug\net6.0\PracticasEasyLeetCode.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\refint\PracticasEasyLeetCode.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\PracticasEasyLeetCode.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\PracticasEasyLeetCode\obj\Debug\net6.0\ref\PracticasEasyLeetCode.dll

@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\bin\Debug\net6.0\1470-ShuffleTheArray.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\bin\Debug\net6.0\1470-ShuffleTheArray.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\bin\Debug\net6.0\1470-ShuffleTheArray.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\bin\Debug\net6.0\1470-ShuffleTheArray.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\bin\Debug\net6.0\1470-ShuffleTheArray.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\refint\1470-ShuffleTheArray.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\1470-ShuffleTheArray.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1470-ShuffleTheArray\obj\Debug\net6.0\ref\1470-ShuffleTheArray.dll
