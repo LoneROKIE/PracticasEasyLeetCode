@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2011FinalValueofVariableAft
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1470-ShuffleTheArray", "1470-ShuffleTheArray\1470-ShuffleTheArray.csproj", "{E2307587-3ECB-4C20-A5E2-9E903AAA7E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1512NumberofGoodPairs", "1512NumberofGoodPairs\1512NumberofGoodPairs.csproj", "{A9A314AC-1B83-451F-BFE5-827F191591C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1512NumberofGoodPairs", "1512NumberofGoodPairs\1512NumberofGoodPairs.csproj", "{A9A314AC-1B83-451F-BFE5-827F191591C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2798NumberofEmployeesWhoMettheTarget", "2798NumberofEmployeesWhoMettheTarget\2798NumberofEmployeesWhoMettheTarget.csproj", "{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{A9A314AC-1B83-451F-BFE5-827F191591C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A314AC-1B83-451F-BFE5-827F191591C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A314AC-1B83-451F-BFE5-827F191591C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{40660808-9AD4-4C23-8F01-C8F434FB90C5} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 		{E2307587-3ECB-4C20-A5E2-9E903AAA7E1E} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 		{A9A314AC-1B83-451F-BFE5-827F191591C6} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
+		{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A79E133C-8592-4542-8B71-DF5CB2DF3364}

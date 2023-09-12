@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\bin\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\bin\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\bin\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\bin\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\bin\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\refint\2798NumberofEmployeesWhoMettheTarget.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\2798NumberofEmployeesWhoMettheTarget.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2798NumberofEmployeesWhoMettheTarget\obj\Debug\net6.0\ref\2798NumberofEmployeesWhoMettheTarget.dll
