@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2798NumberofEmployeesWhoMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431KidsWiththeGreatestNumberofCandies", "1431KidsWiththeGreatestNumberofCandies\1431KidsWiththeGreatestNumberofCandies.csproj", "{F0DBFEB9-C3B3-407D-BC06-2AFBE24A9B30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672RichestCustomerWealth", "1672RichestCustomerWealth\1672RichestCustomerWealth.csproj", "{57ADC9B5-749F-433D-B4F0-572394FACCD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{F0DBFEB9-C3B3-407D-BC06-2AFBE24A9B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0DBFEB9-C3B3-407D-BC06-2AFBE24A9B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0DBFEB9-C3B3-407D-BC06-2AFBE24A9B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ADC9B5-749F-433D-B4F0-572394FACCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ADC9B5-749F-433D-B4F0-572394FACCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ADC9B5-749F-433D-B4F0-572394FACCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ADC9B5-749F-433D-B4F0-572394FACCD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,6 +78,7 @@ Global
 		{A9A314AC-1B83-451F-BFE5-827F191591C6} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 		{BC61FDD3-70DB-4E2E-9D17-74DD14B7D7E5} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 		{F0DBFEB9-C3B3-407D-BC06-2AFBE24A9B30} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
+		{57ADC9B5-749F-433D-B4F0-572394FACCD2} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A79E133C-8592-4542-8B71-DF5CB2DF3364}

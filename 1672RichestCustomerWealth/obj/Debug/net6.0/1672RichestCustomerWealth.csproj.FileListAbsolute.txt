@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\bin\Debug\net6.0\1672RichestCustomerWealth.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\bin\Debug\net6.0\1672RichestCustomerWealth.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\bin\Debug\net6.0\1672RichestCustomerWealth.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\bin\Debug\net6.0\1672RichestCustomerWealth.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\bin\Debug\net6.0\1672RichestCustomerWealth.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\refint\1672RichestCustomerWealth.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\1672RichestCustomerWealth.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1672RichestCustomerWealth\obj\Debug\net6.0\ref\1672RichestCustomerWealth.dll
