@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\bin\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\bin\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\bin\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\bin\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\bin\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\refint\1431KidsWiththeGreatestNumberofCandies.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\1431KidsWiththeGreatestNumberofCandies.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1431KidsWiththeGreatestNumberofCandies\obj\Debug\net6.0\ref\1431KidsWiththeGreatestNumberofCandies.dll
