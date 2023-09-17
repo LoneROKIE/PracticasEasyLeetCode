@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\bin\Debug\net6.0\1480RunningSumOf1dArray.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\bin\Debug\net6.0\1480RunningSumOf1dArray.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\bin\Debug\net6.0\1480RunningSumOf1dArray.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\bin\Debug\net6.0\1480RunningSumOf1dArray.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\bin\Debug\net6.0\1480RunningSumOf1dArray.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\refint\1480RunningSumOf1dArray.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\1480RunningSumOf1dArray.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1480RunningSumOf1dArray\obj\Debug\net6.0\ref\1480RunningSumOf1dArray.dll
