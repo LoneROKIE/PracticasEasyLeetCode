@@ -1,0 +1,4 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number\obj\Debug\net6.0\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number\obj\Debug\net6.0\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number\obj\Debug\net6.0\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number\obj\Debug\net6.0\1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.csproj.CoreCompileInputs.cache

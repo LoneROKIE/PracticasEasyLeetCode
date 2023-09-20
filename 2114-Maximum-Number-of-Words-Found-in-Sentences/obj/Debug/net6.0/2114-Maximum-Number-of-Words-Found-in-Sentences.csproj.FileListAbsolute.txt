@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\bin\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\bin\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\bin\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\bin\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\bin\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\refint\2114-Maximum-Number-of-Words-Found-in-Sentences.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\2114-Maximum-Number-of-Words-Found-in-Sentences.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\2114-Maximum-Number-of-Words-Found-in-Sentences\obj\Debug\net6.0\ref\2114-Maximum-Number-of-Words-Found-in-Sentences.dll
