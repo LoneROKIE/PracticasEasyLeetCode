@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{09AE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108-Defanging-an-IP-Address", "1108-Defanging-an-IP-Address\1108-Defanging-an-IP-Address.csproj", "{14294BB0-713B-432D-9AB9-8EDD0B50E13D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "771-Jewels-and-Stones", "771-Jewels-and-Stones\771-Jewels-and-Stones.csproj", "{98D9E0A9-992D-4D93-8F38-F6E752189B09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{14294BB0-713B-432D-9AB9-8EDD0B50E13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14294BB0-713B-432D-9AB9-8EDD0B50E13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14294BB0-713B-432D-9AB9-8EDD0B50E13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D9E0A9-992D-4D93-8F38-F6E752189B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D9E0A9-992D-4D93-8F38-F6E752189B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D9E0A9-992D-4D93-8F38-F6E752189B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D9E0A9-992D-4D93-8F38-F6E752189B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +122,7 @@ Global
 		{42ECCD55-29DE-4EA7-8133-C3AD1A7ECA41} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 		{4F420ABF-0CB1-443F-AD8A-DF2B26274C46} = {0C654500-CBF8-4466-8D0A-BB89A056C957}
 		{14294BB0-713B-432D-9AB9-8EDD0B50E13D} = {09AE125C-FDC9-4E6C-8732-C735311777E1}
+		{98D9E0A9-992D-4D93-8F38-F6E752189B09} = {09AE125C-FDC9-4E6C-8732-C735311777E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A79E133C-8592-4542-8B71-DF5CB2DF3364}
