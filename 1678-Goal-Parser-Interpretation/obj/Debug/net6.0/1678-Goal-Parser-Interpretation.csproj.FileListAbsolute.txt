@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\bin\Debug\net6.0\1678-Goal-Parser-Interpretation.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\bin\Debug\net6.0\1678-Goal-Parser-Interpretation.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\bin\Debug\net6.0\1678-Goal-Parser-Interpretation.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\bin\Debug\net6.0\1678-Goal-Parser-Interpretation.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\bin\Debug\net6.0\1678-Goal-Parser-Interpretation.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\refint\1678-Goal-Parser-Interpretation.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\1678-Goal-Parser-Interpretation.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PracticasEasyLeetCode\1678-Goal-Parser-Interpretation\obj\Debug\net6.0\ref\1678-Goal-Parser-Interpretation.dll
